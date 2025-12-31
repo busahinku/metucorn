@@ -1,4 +1,6 @@
-<img src="doc/logo.png" alt="metucorn logo" width="200">
+<div align="center">
+  <img src="doc/logo.png" alt="metucorn logo" width="200">
+</div>
 
 This app created for STAT311: Modern Database Systems course of Middle East Technical University from a group of juniors: Burak Şahin Küçük, Fajrin A., Ahmet T., Pelin İ.
 
