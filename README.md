@@ -1,6 +1,4 @@
-# metucorn
-
-![metucorn logo](doc/logo.png)
+<img src="doc/logo.png" alt="metucorn logo" width="200">
 
 This app created for STAT311: Modern Database Systems course of Middle East Technical University from a group of juniors: Burak Şahin Küçük, Fajrin A., Ahmet T., Pelin İ.
 
@@ -39,15 +37,6 @@ metucorn is a modern movie watching party platform that allows users to purchase
 - **QR Codes**: qrcode.react
 - **Icons**: Lucide React
 
-## Database Architecture
-
-The application uses a comprehensive PostgreSQL database with:
-- **Row Level Security (RLS)**: Implemented for data access control
-- **UUID Primary Keys**: For all tables
-- **Foreign Key Relationships**: Properly normalized schema
-- **Custom Types**: ENUMs for status fields
-- **Triggers**: Automatic timestamp updates
-- **Indexes**: Optimized for performance
 
 ### Key Tables
 - `client`: User profiles linked to Supabase Auth
