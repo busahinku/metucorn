@@ -106,3 +106,4 @@ export default function DeletePartyButton({ partyId, movieTitle }: DeletePartyBu
 
 
 
+
